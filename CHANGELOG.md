@@ -1,3 +1,25 @@
+## 0.23.2 (2017-05-07)
+
+* Remove requirement for MultiJSON
+
+## 0.23.1 (2016-08-04)
+
+* Fixes for Issue on Boot with Rails 3 and 4
+
+## 0.23.0 (2016-01-26)
+
+* Fixes for Railties and certain versions of Rails
+* Only load if asset compilation is enabled
+* Add support for Sprockets 3.x + 4.x - @tjgrathwell
+
+## 0.22.0 (2015-11-23)
+
+* Update Handlebars to v4.0.5
+
+## 0.21.0 (2015-02-24)
+
+* Update Handlebars to v4.0.2
+
 ## 0.20.2 (2015-02-24)
 
 * Relax Sprockets Dependencies - @rounders
